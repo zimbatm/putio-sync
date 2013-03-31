@@ -1,7 +1,7 @@
 Put.io sync
 ===========
 
-A small script that fetches all the files from your Put.io account into a
+A small script that fetches all the files from your [Put.io](http://put.io) account into a
 local folder.
 
 Install
